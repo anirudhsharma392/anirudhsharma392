@@ -24,7 +24,7 @@ I love to build mobile applications.
 Built a Cross Platform baseball gaming application.
 #### Jsimple Technosoft, Noida - <span style="color:blue">*Android Developer* </span>
 <span style="color:blue">*September 2019 - November 2019* </span>\
-Developing a HRMS Mobile application with the maig cof AI.\
+Developing a HRMS Mobile application This application helps to monitor HR activities with the help of AI.\
 </br>
 
 ### Connect with me
