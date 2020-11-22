@@ -20,10 +20,10 @@ I love to build mobile applications.
 ### EXPERIENCE
 
 #### ASP Global Works,  Kalkaji - <span style="color:blue">*Flutter Developer* </span>
-<span style="color:blue">*June 2019 - August 2019* </span>\
+<span style="color:blue">*Jan 2019 - Dec 2019* </span>\
 Built a Cross Platform baseball gaming application.
 #### Jsimple Technosoft, Noida - <span style="color:blue">*Android Developer* </span>
-<span style="color:blue">*September 2019 - November 2019* </span>\
+<span style="color:blue">*Jan 2019 - Present* </span>\
 Developing a HRMS Mobile application. This application helps to monitor HR activities with the magic of AI.\
 </br>
 
