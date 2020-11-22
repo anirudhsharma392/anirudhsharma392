@@ -34,7 +34,7 @@ Developing a HRMS Mobile application. This application helps to monitor HR activ
 
 </br>
 </br>
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fateh491989&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhsharma392&show_icons=true&hide_border=true&theme=radical" />
 </br>
 
 [whatsapp]: https://wa.me/919555719966
