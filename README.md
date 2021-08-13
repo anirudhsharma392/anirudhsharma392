@@ -20,7 +20,7 @@ I love to build mobile applications.
 ### EXPERIENCE
 
 #### Bow & Beautiful, Ukraine - <span style="color:blue">*Software Engineer* </span>
-<span style="color:blue">*Jan 2019 - Present* </span>\
+<span style="color:blue">*Jan 2021 - Present* </span>\
 Building a salon booking app with CRM, used magic of flutter and firebase to built an entire project. \
 </br>
 #### Jsimple Technosoft, Noida - <span style="color:blue">*Android Developer* </span>
