@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Anirudh Sharma**, mobile app developer. I have experience of almost 2 years as a flutter developer. 
+I am **Anirudh Sharma**, mobile app developer. I have experience of more than 3 years as a flutter developer. 
 I love to build mobile applications.
 
 
