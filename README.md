@@ -41,10 +41,5 @@ Built a Cross Platform baseball gaming application.
 [<img align="left" alt="Anirudh Sharma | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Anirudh Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-</br>
-</br>
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhsharma392&show_icons=true&hide_border=true&theme=radical" />
-</br>
-
 [whatsapp]: https://wa.me/919555719966
 [linkedin]: https://www.linkedin.com/in/anirudh-sharma-8790a2158/
