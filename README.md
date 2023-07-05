@@ -19,16 +19,18 @@ I love to build mobile applications.
 
 ### EXPERIENCE
 
+#### Sunstone, Gurugram - <span style="color:blue">*Software Engineer* </span>
+<span style="color:blue">*May 2022 - Present* </span>\
+Developing a mobile app for university students, providing a one-stop solution for all their campus needs, including attending live classes, marking attendance, applying for jobs, and much more \
+</br>
+
 #### Bow & Beautiful, Ukraine - <span style="color:blue">*Software Engineer* </span>
-<span style="color:blue">*Jan 2021 - Present* </span>\
+<span style="color:blue">*Jan 2021 - May 2022* </span>\
 Building a salon booking app with CRM, used magic of flutter and firebase to built an entire project. \
 </br>
-#### Jsimple Technosoft, Noida - <span style="color:blue">*Android Developer* </span>
-<span style="color:blue">*Jan 2020 - Dec 2020* </span>\
-Built a HRMS Mobile application. This application helps to monitor HR activities with the magic of AI.\
-</br>
-#### ASP Global Works,  Kalkaji - <span style="color:blue">*Flutter Developer* </span>
-<span style="color:blue">*Jan 2019 - Dec 2019* </span>\
+
+#### ASP Global Works, New Delhi - <span style="color:blue">*Flutter Developer* </span>
+<span style="color:blue">*Jan 2019 - Dec 2020* </span>\
 Built a Cross Platform baseball gaming application.
 
 
