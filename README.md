@@ -21,6 +21,7 @@ I love to build mobile applications.
 
 #### Sunstone, Gurugram - <span style="color:blue">*Software Engineer* </span>
 <span style="color:blue">*May 2022 - Present* </span>\
+
 Developing a mobile app for university students, providing a one-stop solution for all their campus needs, including attending live classes, marking attendance, applying for jobs, and much more \
 </br>
 
